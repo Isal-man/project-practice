@@ -1,5 +1,7 @@
 package com.access.projectpractice;
 
+import com.access.projectpractice.entity.Employee;
+import com.access.projectpractice.repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
